@@ -1159,8 +1159,8 @@ section.lazy-placeholder:after {
 }
 .cid-rZQTej3B0E {
   margin-bottom: auto;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: auto;
+  padding-bottom: 1px;
   background-color: #ff3366;
 }
 .cid-rZQTej3B0E .row-links {
