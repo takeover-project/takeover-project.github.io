@@ -1,4 +1,4 @@
-[{"title":"Сезон 1","folder":[{"title":"Эпизод 1","file":"https://dv8.sibnet.ru/35/03/36/3503361.mp4?st=NZJqndRob-Vi8bjLj6haAg&e=1604000000&stor=8&noip=1"},
+[{"title":"Сезон 1","folder":[{"title":"Эпизод 1","file":"https://protonvideo.to/iframe/ed1837e77de7957b9475a394dbe37616/?pjsfr"},
 {"title":"Эпизод 2","file":"https://dvb5.sibnet.ru/35/21/05/3521052.mp4?st=BwLJ0KBrHkfAezqkPxc-vw&e=1604005000&stor=51&noip=1"},
 {"title":"Эпизод 3","file":"https://dv30.sibnet.ru/35/26/53/3526539.mp4?st=7RhGd_KwNagpmtJ1mwf26w&e=1604005000&stor=30&noip=1"},
 {"title":"Эпизод 4","file":"https://www.mp4upload.com/embed-k81y8ellanid.html"},
