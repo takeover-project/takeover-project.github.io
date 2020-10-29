@@ -1,6 +1,6 @@
 [{"title":"Сезон 1","folder":[{"title":"Эпизод 1","file":"https://dv8.sibnet.ru/35/03/36/3503361.mp4?st=NZJqndRob-Vi8bjLj6haAg&e=1604000000&stor=8&noip=1"},
-{"title":"Эпизод 2","file":"https://www.myvi.tv/embed/3s8im8ymn3gw9yicbpszaijjqh"},
-{"title":"Эпизод 3","file":"https://video.sibnet.ru/shell.php?videoid=3801912"},
+{"title":"Эпизод 2","file":"https://dvb5.sibnet.ru/35/21/05/3521052.mp4?st=BwLJ0KBrHkfAezqkPxc-vw&e=1604005000&stor=51&noip=1"},
+{"title":"Эпизод 3","file":"https://dv30.sibnet.ru/35/26/53/3526539.mp4?st=7RhGd_KwNagpmtJ1mwf26w&e=1604005000&stor=30&noip=1"},
 {"title":"Эпизод 4","file":"https://www.mp4upload.com/embed-k81y8ellanid.html"},
 {"title":"Эпизод 5","file":"https://cdn26.my.mail.ru/hv/69331752.mp4?slave%5B%5D=s%3Ahttp%3A%2F%2Fvideo-cephrgw1.i%3A9090%2Fvideo4%2F69331752-hv&p=f&expire_at=1603922400&touch=1581072501&reg=188&sign=b2b340229b00a1dde25ff4c5f896ec3cd7c6760d"},
 {"title":"Эпизод 6","file":"https://cdn10.my.mail.ru/hv/69375209.mp4?slave%5B%5D=s%3Ahttp%3A%2F%2Fvideo-cephrgw2.i%3A9090%2Fvideo4%2F69375209-hv&p=f&expire_at=1603922400&touch=1581678876&reg=188&sign=86d26191a22e60ce42cc814be4f4133c262a4d8e"},
