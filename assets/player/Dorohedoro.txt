@@ -1,4 +1,4 @@
-[{"title":"Сезон 1","folder":[{"title":"Эпизод 1","file":"https://my.mail.ru/video/embed/2813423111838368293"},
+[{"title":"Сезон 1","folder":[{"title":"Эпизод 1","file":"https://dv8.sibnet.ru/35/03/36/3503361.mp4?st=NZJqndRob-Vi8bjLj6haAg&e=1604000000&stor=8&noip=1"},
 {"title":"Эпизод 2","file":"https://www.myvi.tv/embed/3s8im8ymn3gw9yicbpszaijjqh"},
 {"title":"Эпизод 3","file":"https://video.sibnet.ru/shell.php?videoid=3801912"},
 {"title":"Эпизод 4","file":"https://www.mp4upload.com/embed-k81y8ellanid.html"},
