@@ -1,0 +1,35 @@
+.player-block {
+    position: relative;
+}
+.player-block .control-panel {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    z-index: 999;
+}
+.dropdown {
+    width: auto !important;
+    margin-left: 15px !important;
+}
+.dropdown-menu {
+    margin: 0;
+    padding: 0;
+}
+.control-panel select,
+.dropdown button,
+.dropdown.show button {
+    color: rgb(0, 0, 0);
+    background-color: rgb(66, 189, 136);
+    margin-left: 15px;
+    padding: 7px 10px;
+    outline: none;
+    font-size: 16px;
+}
+.control-panel select option,
+.dropdown li {
+    background-color: rgb(174, 199, 188);
+}
+.control-panel select option:checked,
+.dropdown li:selected {
+    background-color: rgb(230, 23, 126);
+}

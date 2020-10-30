@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Сезон 1",
+        "folder": [
+            {
+                "title": "Эпизод 1",
+                "links": [
+                    "https://protonvideo.to/iframe/ed1837e77de7957b9475a394dbe37616/?pjsfr",
+                    "https://www.youtube.com/embed/PKlToxypiqI"
+                ]
+            },
+            {
+                "title": "Эпизод 2",
+                "links": [
+                    "https://www.youtube.com/embed/iORjOKEHYBI"
+                ]
+            },
+            {
+                "title": "Эпизод 3",
+                "links": [
+                    "https://dv30.sibnet.ru/35/26/53/3526539.mp4?st=7RhGd_KwNagpmtJ1mwf26w&e=1604005000&stor=30&noip=1"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Сезон последний",
+        "folder": [
+            { "title": "Эпизод A", "links": ["https://protonvideo.to/iframe/ed1837e77de7957b9475a394dbe37616/?pjsfr"] },
+            {
+                "title": "Эпизод B",
+                "links": [
+                    "https://dvb5.sibnet.ru/35/21/05/3521052.mp4?st=BwLJ0KBrHkfAezqkPxc-vw&e=1604005000&stor=51&noip=1"
+                ]
+            },
+            {
+                "title": "Эпизод C",
+                "links": [
+                    "https://dv30.sibnet.ru/35/26/53/3526539.mp4?st=7RhGd_KwNagpmtJ1mwf26w&e=1604005000&stor=30&noip=1"
+                ]
+            }
+        ]
+    }
+]
