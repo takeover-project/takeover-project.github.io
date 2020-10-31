@@ -100,17 +100,10 @@ function playerBlock(seriesData) {
                     playerNum && playersTypes[playerNum]
                         ? curEpisode.links.filter(v => v.indexOf(playersTypes[playerNum]) !== -1).shift()
                         : '';
-                $player.children('iframe').attr('src', link || curEpisode.links[0]);
+                $player.attr('src', link || curEpisode.links[0]);
             }
         }
     }
-
-    $('<div></div>', { class: 'control-panel' })
-        .on('click', '.playerButtons>span', function () {
-            playerNum = parseInt($(this).attr('data-player'));
-            openPlayer();
-        })
-        .insertBefore($player);
 
     addSelect('season', seriesData, function () {
         season = parseInt($(this).val());
