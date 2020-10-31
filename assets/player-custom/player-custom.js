@@ -104,6 +104,10 @@ function playerBlock(seriesData) {
             }
         }
     }
+    
+    $('<div></div>', { class: 'control-panel' })
+        .insertBefore($player);
+
 
     addSelect('season', seriesData, function () {
         season = parseInt($(this).val());
