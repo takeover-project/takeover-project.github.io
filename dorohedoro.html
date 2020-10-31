@@ -23,7 +23,8 @@
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
-  
+  <link rel="stylesheet" href="assets/player-custom/bootstrap-select.min.css">
+<link rel="stylesheet" href="assets/player-custom/player-custom.css">
 </head>
 <body>
   <section class="menu cid-rYbnJ8e6he" once="menu" id="menu1-14">
@@ -88,7 +89,12 @@
                         <a class="btn btn-md btn-secondary-outline display-4" href="https://yadi.sk/d/zawU-OVpMFiThg" target="_blank">СКАЧАТЬ</a></div>
             </div>
 
-            <div class="mbr-figure" style="width: 145%;"><iframe class="mbr-embedded-video" src="//cdn.plrjs.com/player/drkn771asti84/2gqgyvd89dq1.html?file=//takeover-project.github.io/assets/player/Dorohedoro.txt" type="text/html" width="1280" height="720" frameborder="0" allowfullscreen=""></iframe></div>
+    <div class="player-block mbr-figure">
+        <div class="player">
+            <iframe width="1280" height="720" src="" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+
 
         </div>
     </div>
@@ -203,6 +209,11 @@
   <script src="assets/sociallikes/social-likes.js"></script>
   <script src="assets/theme/js/script.js"></script>
   
+<script src="assets/player-custom/bootstrap-select.min.js"></script>
+<script src="assets/player-custom/player-custom.js"></script>
+<script>
+    getPlayerData('assets/player-custom/example.txt');
+</script>
   
 </body>
 </html>
