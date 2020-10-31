@@ -33,3 +33,9 @@
 .dropdown li:selected {
     background-color: rgb(230, 23, 126);
 }
+
+@media (max-width: 991px) {
+  .control-panel {
+    position: static;
+  }
+}
