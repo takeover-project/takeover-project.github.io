@@ -17,67 +17,126 @@
          {
             "title":"Эпизод 2",
             "links":[
-               "https://protonvideo.to/iframe/4b205346d3f1852426bd4b3bf67f59b1/?pjsfr"
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240005&hash=7e592dc65801e6b3&hd=2",
+               "https://ok.ru/videoembed/1440922995369",
+               "https://my.mail.ru/video/embed/2813423111838368294",
+               "https://www.myvi.tv/embed/kzjqmsmrox3rifsc6tyyq17xqh",
+               "https://video.sibnet.ru/shell.php?videoid=3806452",
+               "https://www.mp4upload.com/embed-0mew9ib11la4.html",
+               "https://smotret-anime.online/translations/embed/3127284"
             ]
          },
          {
             "title":"Эпизод 3",
             "links":[
-               "https://protonvideo.to/iframe/7bbb1781915582e0312bd553dfa4a762/?pjsfr"
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240014&hash=de35c845004a6448&hd=2",
+               "https://ok.ru/videoembed/1448693598889",
+               "https://my.mail.ru/video/embed/2813423111838368297",
+               "https://www.myvi.tv/embed/ajrpa3htciarmpz9pt3g43exzw",
+               "https://video.sibnet.ru/shell.php?videoid=3816016",
+               "https://www.mp4upload.com/embed-86eyd3tuk5hy.html",
+               "https://smotret-anime.online/translations/embed/3132871"
             ]
          },
          {
             "title":"Эпизод 4",
             "links":[
-               "https://protonvideo.to/iframe/a15c6aea9d9c53c1e50594f59e09fbc4/?pjsfr"
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240017&hash=2592e11ec73b6232&hd=2",
+               "https://ok.ru/videoembed/1456400501417",
+               "https://my.mail.ru/video/embed/2813423111838368298",
+               "https://www.myvi.tv/embed/xqkmgchssw1widh9mibe8r4bfy",
+               "https://www.mp4upload.com/embed-y7qghgyf8k42.html",
+               "https://smotret-anime.online/translations/embed/3139385"
             ]
          },
          {
             "title":"Эпизод 5",
             "links":[
-               "https://protonvideo.to/iframe/e6cabf543048620f28b40f0d1ff42192/?pjsfr"
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240027&hash=d5f5ed2f33b57476&hd=2",
+               "https://ok.ru/videoembed/1464023255721",
+               "https://my.mail.ru/video/embed/2813423111838368300",
+               "https://www.myvi.tv/embed/77trfztgu73rpru9wufijb3cjw",
+               "https://video.sibnet.ru/shell.php?videoid=3832126",
+               "https://www.mp4upload.com/embed-r7ghyvoz6vuv.html",
+               "https://smotret-anime.online/translations/embed/3144873"
             ]
          },
          {
             "title":"Эпизод 6",
             "links":[
-               "https://protonvideo.to/iframe/dd9e114e32abf66c4bbcfaadc465d052/?pjsfr"
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240038&hash=64f85024b248ac50&hd=2",
+               "https://ok.ru/videoembed/1471767448233",
+               "https://my.mail.ru/video/embed/2813423111838368303",
+               "https://www.myvi.tv/embed/asgtmqxchgmwzgpxiid6jg5gta",
+               "https://video.sibnet.ru/shell.php?videoid=3845911",
+               "https://www.mp4upload.com/embed-vdaq4nesz1qu.html",
+               "https://smotret-anime.online/translations/embed/3150440"
             ]
          },
          {
             "title":"Эпизод 7",
             "links":[
-               "https://protonvideo.to/iframe/bfd4e9c770c740100e7ea2538a9a15ba/?pjsfr"
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240054&hash=368b6459b9675a89&hd=2",
+               "https://my.mail.ru/video/embed/2813423111838368306",
+               "https://www.myvi.tv/embed/nctj8etncquwuj3tc95xs9ferr",
+               "https://video.sibnet.ru/shell.php?videoid=3853746",
+               "https://www.mp4upload.com/embed-9wbazm23vj8q.html",
+               "https://smotret-anime.online/translations/embed/3155794"
             ]
          },
          {
             "title":"Эпизод 8",
             "links":[
-               "https://protonvideo.to/iframe/91e1a0dc4101542732a55632176a1955/?pjsfr"
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240063&hash=7cda1f082fc7881c&hd=2",
+               "https://my.mail.ru/video/embed/2813423111838368309",
+               "https://www.myvi.tv/embed/7czuzibwebwwbmtqx4io5dhe8o",
+               "https://video.sibnet.ru/shell.php?videoid=3861308",
+               "https://www.mp4upload.com/embed-2wr3dicjquhc.html",
+               "https://smotret-anime.online/translations/embed/3161506"
             ]
          },
          {
             "title":"Эпизод 9",
             "links":[
-               "https://protonvideo.to/iframe/5470ba1c07d730cdadc104addbeecbae/?pjsfr"
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240071&hash=14a4713642b873ee&hd=2",
+               "https://my.mail.ru/video/embed/2813423111838368311",
+               "https://www.myvi.tv/embed/b4m8z5myie5rdci795syo9qwgr",
+               "https://video.sibnet.ru/shell.php?videoid=3866461",
+               "https://www.mp4upload.com/embed-2wc6oqhk76nh.html",
+               "https://smotret-anime.online/translations/embed/3165564"
             ]
          },
          {
             "title":"Эпизод 10",
             "links":[
-               "https://protonvideo.to/iframe/e5693f01099307d04069e4651667404c/?pjsfr"
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240079&hash=555d9c8b523e3bb1&hd=2",
+               "https://my.mail.ru/video/embed/2813423111838368314",
+               "https://www.myvi.tv/embed/d5ze8nfdyo6r98q49xiacjedgo",
+               "https://video.sibnet.ru/shell.php?videoid=3872341",
+               "https://www.mp4upload.com/embed-jh8vnyit87sz.html",
+               "https://smotret-anime.online/translations/embed/3171865"
             ]
          },
          {
             "title":"Эпизод 11",
             "links":[
-               "https://protonvideo.to/iframe/3bc71cb1b42ff75b98ca967c5095cc46/?pjsfr"
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240086&hash=ff4f56aac6beb48e&hd=2",
+               "https://my.mail.ru/video/embed/2813423111838368317",
+               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://video.sibnet.ru/shell.php?videoid=3876617",
+               "https://www.mp4upload.com/embed-x6c05buen6m8.html",
+               "https://smotret-anime.online/translations/embed/3178208"
             ]
          },
          {
             "title":"Эпизод 12",
             "links":[
-               "https://protonvideo.to/iframe/caa215771016e94acac3a9c768b605b2/?pjsfr"
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240094&hash=2bcf2e850ec8062b&hd=2",
+               "https://my.mail.ru/video/embed/2813423111838368320",
+               "https://www.myvi.tv/embed/ima4nxcbdnzrbmb377q9faswpc",
+               "https://video.sibnet.ru/shell.php?videoid=3883337",
+               "https://www.mp4upload.com/embed-5vknhax27m3c.html",
+               "https://smotret-anime.online/translations/embed/3185566"
             ]
          }
       ]
