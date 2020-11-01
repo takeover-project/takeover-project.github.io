@@ -5,7 +5,13 @@
          {
             "title":"Эпизод 1",
             "links":[
-               "https://protonvideo.to/iframe/ed1837e77de7957b9475a394dbe37616/?pjsfr"
+               "https://vk.com/video_ext.php?oid=-130051580&id=456239990&hash=da75c9da5d17224c&hd=2",
+               "https://ok.ru/videoembed/1424230910633",
+               "https://my.mail.ru/video/embed/2813423111838368289",
+               "https://www.myvi.tv/embed/fw7ypejrz18rjbhqzf3dp1agka",
+               "https://video.sibnet.ru/shell.php?videoid=3785464",
+               "https://www.mp4upload.com/embed-75xqvcbvc7nf.html",
+               "https://smotret-anime.online/translations/embed/3114966",
             ]
          },
          {
