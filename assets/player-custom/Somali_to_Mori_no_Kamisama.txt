@@ -11,7 +11,7 @@
                "https://www.myvi.tv/embed/fw7ypejrz18rjbhqzf3dp1agka",
                "https://video.sibnet.ru/shell.php?videoid=3785464",
                "https://www.mp4upload.com/embed-75xqvcbvc7nf.html",
-               "https://smotret-anime.online/translations/embed/3114966",
+               "https://smotret-anime.online/translations/embed/3114966"
             ]
          },
          {
