@@ -8,12 +8,15 @@ function playerBlock(seriesData) {
         playerNum = 0;
 
     var playersTypes = {
+        OK: 'ok.ru',
         SibNet: 'sibnet',
         ProtonVideo: 'protonvideo',
         YouTube: 'youtube',
         Vkontakte: 'vk.com',
-        'Mail.ru': 'mail.ru',
-        Myvi: 'myvi.'
+        MP4UPLOAD: 'mp4upload.com',
+        MAIL: 'mail.ru',
+        MYVI: 'myvi.',
+        Smotret_anime: 'smotret-anime.online'
     };
 
     function definePlayerType(link) {
