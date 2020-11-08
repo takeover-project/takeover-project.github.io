@@ -10,4 +10,4 @@
 {"title":"Эпизод 10","file":"https://protonvideo.to/iframe/e5693f01099307d04069e4651667404c/?pjsfr"},
 {"title":"Эпизод 11","file":"https://protonvideo.to/iframe/3bc71cb1b42ff75b98ca967c5095cc46/?pjsfr"},
 {"title":"Эпизод 12","file":"https://protonvideo.to/iframe/caa215771016e94acac3a9c768b605b2/?pjsfr"},
-{"title":"Кавер OP TV-size","file":"https://protonvideo.to/iframe/732e4db2ab51183feedf5013d70340ae/?pjsfr"}]}]
+{"title":"Кавер OP TV","file":"https://protonvideo.to/iframe/732e4db2ab51183feedf5013d70340ae/?pjsfr"}]}]
