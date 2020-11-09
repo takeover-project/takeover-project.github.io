@@ -6,8 +6,7 @@
             "title":"Эпизод 1",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239131&hash=7d1d476fc7ee13f5&hd=2",
-               "https://ok.ru/videoembed/1424230910633",
-               "https://my.mail.ru/video/embed/2813423111838368289",
+               "https://my.mail.ru/video/embed/2813423111838367919",
                "https://www.myvi.tv/embed/fw7ypejrz18rjbhqzf3dp1agka",
                "https://video.sibnet.ru/shell.php?videoid=3785464",
                "https://www.mp4upload.com/embed-75xqvcbvc7nf.html",
@@ -18,8 +17,7 @@
             "title":"Эпизод 2",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239139&hash=ddd2510091c6b177&hd=2",
-               "https://ok.ru/videoembed/1440922995369",
-               "https://my.mail.ru/video/embed/2813423111838368294",
+               "https://my.mail.ru/video/embed/2813423111838367922",
                "https://www.myvi.tv/embed/kzjqmsmrox3rifsc6tyyq17xqh",
                "https://video.sibnet.ru/shell.php?videoid=3806452",
                "https://www.mp4upload.com/embed-0mew9ib11la4.html",
@@ -30,8 +28,7 @@
             "title":"Эпизод 3",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239143&hash=5b1314df383dcb18&hd=2",
-               "https://ok.ru/videoembed/1448693598889",
-               "https://my.mail.ru/video/embed/2813423111838368297",
+               "https://my.mail.ru/video/embed/2813423111838367924",
                "https://www.myvi.tv/embed/ajrpa3htciarmpz9pt3g43exzw",
                "https://video.sibnet.ru/shell.php?videoid=3816016",
                "https://www.mp4upload.com/embed-86eyd3tuk5hy.html",
@@ -42,8 +39,7 @@
             "title":"Эпизод 4",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239154&hash=0e3f2174df691d5f&hd=2",
-               "https://ok.ru/videoembed/1456400501417",
-               "https://my.mail.ru/video/embed/2813423111838368298",
+               "https://my.mail.ru/video/embed/2813423111838367929",
                "https://www.myvi.tv/embed/xqkmgchssw1widh9mibe8r4bfy",
                "https://www.mp4upload.com/embed-y7qghgyf8k42.html",
                "https://smotret-anime.online/translations/embed/3139385"
@@ -53,7 +49,6 @@
             "title":"Эпизод 5",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239159&hash=b4c52125b0bc9d46&hd=2",
-               "https://ok.ru/videoembed/1464023255721",
                "https://my.mail.ru/video/embed/2813423111838368300",
                "https://www.myvi.tv/embed/77trfztgu73rpru9wufijb3cjw",
                "https://video.sibnet.ru/shell.php?videoid=3832126",
@@ -65,7 +60,6 @@
             "title":"Эпизод 6",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239172&hash=da7777bcb39b703f&hd=2",
-               "https://ok.ru/videoembed/1471767448233",
                "https://my.mail.ru/video/embed/2813423111838368303",
                "https://www.myvi.tv/embed/asgtmqxchgmwzgpxiid6jg5gta",
                "https://video.sibnet.ru/shell.php?videoid=3845911",
@@ -77,7 +71,6 @@
             "title":"Эпизод 7",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239188&hash=4754a4d2830f6b4a&hd=2",
-               "https://my.mail.ru/video/embed/2813423111838368306",
                "https://www.myvi.tv/embed/nctj8etncquwuj3tc95xs9ferr",
                "https://video.sibnet.ru/shell.php?videoid=3853746",
                "https://www.mp4upload.com/embed-9wbazm23vj8q.html",
