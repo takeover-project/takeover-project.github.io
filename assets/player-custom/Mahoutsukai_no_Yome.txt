@@ -270,6 +270,13 @@
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
                "https://smotret-anime.online/translations/embed/3178208"
             ]
+         },
+         {
+            "title":"Кавер OP TV",
+            "links":[
+               "https://vk.com/video_ext.php?oid=-130051580&id=456239164&hash=5a034ffe2c32700e&hd=2",
+               "https://www.youtube.com/embed/xY41w2siy4I"
+            ]
          }
       ]
    }
