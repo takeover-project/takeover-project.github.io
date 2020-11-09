@@ -76,7 +76,7 @@
          {
             "title":"Эпизод 7",
             "links":[
-               "https://vk.com/video_ext.php?oid=-130051580&id=456240054&hash=368b6459b9675a89&hd=2",
+               "https://vk.com/video_ext.php?oid=-130051580&id=456239188&hash=4754a4d2830f6b4a&hd=2",
                "https://my.mail.ru/video/embed/2813423111838368306",
                "https://www.myvi.tv/embed/nctj8etncquwuj3tc95xs9ferr",
                "https://video.sibnet.ru/shell.php?videoid=3853746",
@@ -87,7 +87,7 @@
          {
             "title":"Эпизод 8",
             "links":[
-               "https://vk.com/video_ext.php?oid=-130051580&id=456240063&hash=7cda1f082fc7881c&hd=2",
+               "https://vk.com/video_ext.php?oid=-130051580&id=456239197&hash=5b93f8fdea0f906f&hd=2",
                "https://my.mail.ru/video/embed/2813423111838368309",
                "https://www.myvi.tv/embed/7czuzibwebwwbmtqx4io5dhe8o",
                "https://video.sibnet.ru/shell.php?videoid=3861308",
@@ -98,7 +98,7 @@
          {
             "title":"Эпизод 9",
             "links":[
-               "https://vk.com/video_ext.php?oid=-130051580&id=456240071&hash=14a4713642b873ee&hd=2",
+               "https://vk.com/video_ext.php?oid=-130051580&id=456239204&hash=e82c89e1cdd0976b&hd=2",
                "https://my.mail.ru/video/embed/2813423111838368311",
                "https://www.myvi.tv/embed/b4m8z5myie5rdci795syo9qwgr",
                "https://video.sibnet.ru/shell.php?videoid=3866461",
@@ -109,7 +109,7 @@
          {
             "title":"Эпизод 10",
             "links":[
-               "https://vk.com/video_ext.php?oid=-130051580&id=456240079&hash=555d9c8b523e3bb1&hd=2",
+               "https://vk.com/video_ext.php?oid=-130051580&id=456239208&hash=0cb67a9419ece659&hd=2",
                "https://my.mail.ru/video/embed/2813423111838368314",
                "https://www.myvi.tv/embed/d5ze8nfdyo6r98q49xiacjedgo",
                "https://video.sibnet.ru/shell.php?videoid=3872341",
@@ -120,7 +120,7 @@
          {
             "title":"Эпизод 11",
             "links":[
-               "https://vk.com/video_ext.php?oid=-130051580&id=456240086&hash=ff4f56aac6beb48e&hd=2",
+               "https://vk.com/video_ext.php?oid=-130051580&id=456239215&hash=98442070d51e1a93&hd=2",
                "https://my.mail.ru/video/embed/2813423111838368317",
                "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
                "https://video.sibnet.ru/shell.php?videoid=3876617",
@@ -131,7 +131,7 @@
          {
             "title":"Эпизод 12",
             "links":[
-               "https://vk.com/video_ext.php?oid=-130051580&id=456240094&hash=2bcf2e850ec8062b&hd=2",
+               "https://vk.com/video_ext.php?oid=-130051580&id=456239219&hash=dc5f21e2787431f4&hd=2",
                "https://my.mail.ru/video/embed/2813423111838368320",
                "https://www.myvi.tv/embed/ima4nxcbdnzrbmb377q9faswpc",
                "https://video.sibnet.ru/shell.php?videoid=3883337",
