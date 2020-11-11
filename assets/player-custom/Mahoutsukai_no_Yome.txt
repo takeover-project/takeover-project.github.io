@@ -49,7 +49,7 @@
             "title":"Эпизод 5",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239159&hash=b4c52125b0bc9d46&hd=2",
-               "https://my.mail.ru/video/embed/2813423111838368300",
+               "https://my.mail.ru/video/embed/2813423111838367931",
                "https://www.myvi.tv/embed/77trfztgu73rpru9wufijb3cjw",
                "https://video.sibnet.ru/shell.php?videoid=3832126",
                "https://www.mp4upload.com/embed-r7ghyvoz6vuv.html",
@@ -60,7 +60,7 @@
             "title":"Эпизод 6",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239172&hash=da7777bcb39b703f&hd=2",
-               "https://my.mail.ru/video/embed/2813423111838368303",
+               "https://my.mail.ru/video/embed/2813423111838367934",
                "https://www.myvi.tv/embed/asgtmqxchgmwzgpxiid6jg5gta",
                "https://video.sibnet.ru/shell.php?videoid=3845911",
                "https://www.mp4upload.com/embed-vdaq4nesz1qu.html",
@@ -71,6 +71,7 @@
             "title":"Эпизод 7",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239188&hash=4754a4d2830f6b4a&hd=2",
+               "https://my.mail.ru/video/embed/2813423111838367945",
                "https://www.myvi.tv/embed/nctj8etncquwuj3tc95xs9ferr",
                "https://video.sibnet.ru/shell.php?videoid=3853746",
                "https://www.mp4upload.com/embed-9wbazm23vj8q.html",
@@ -81,7 +82,7 @@
             "title":"Эпизод 8",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239197&hash=5b93f8fdea0f906f&hd=2",
-               "https://my.mail.ru/video/embed/2813423111838368309",
+               "https://my.mail.ru/video/embed/2813423111838367947",
                "https://www.myvi.tv/embed/7czuzibwebwwbmtqx4io5dhe8o",
                "https://video.sibnet.ru/shell.php?videoid=3861308",
                "https://www.mp4upload.com/embed-2wr3dicjquhc.html",
@@ -92,7 +93,7 @@
             "title":"Эпизод 9",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239204&hash=e82c89e1cdd0976b&hd=2",
-               "https://my.mail.ru/video/embed/2813423111838368311",
+               "https://my.mail.ru/video/embed/2813423111838367950",
                "https://www.myvi.tv/embed/b4m8z5myie5rdci795syo9qwgr",
                "https://video.sibnet.ru/shell.php?videoid=3866461",
                "https://www.mp4upload.com/embed-2wc6oqhk76nh.html",
