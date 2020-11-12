@@ -105,7 +105,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239208&hash=0cb67a9419ece659&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367952",
-               "https://www.myvi.tv/embed/d5ze8nfdyo6r98q49xiacjedgo",
+               "https://www.myvi.top/embed/mzc8h3qwptmwtksy4tucc3gsbw",
                "https://video.sibnet.ru/shell.php?videoid=3872341",
                "https://www.mp4upload.com/embed-jh8vnyit87sz.html",
                "https://smotret-anime.online/translations/embed/3171865"
@@ -116,7 +116,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239215&hash=98442070d51e1a93&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367960",
-               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://www.myvi.top/embed/tnspuuyzr6fw5n9sz6hcpuogko",
                "https://video.sibnet.ru/shell.php?videoid=3876617",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
                "https://smotret-anime.online/translations/embed/3178208"
@@ -127,7 +127,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239219&hash=dc5f21e2787431f4&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367969",
-               "https://www.myvi.tv/embed/ima4nxcbdnzrbmb377q9faswpc",
+               "https://www.myvi.top/embed/f3p57e9hbw8r8qx93346a1btce",
                "https://video.sibnet.ru/shell.php?videoid=3883337",
                "https://www.mp4upload.com/embed-5vknhax27m3c.html",
                "https://smotret-anime.online/translations/embed/3185566"
@@ -138,7 +138,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239230&hash=20917e53e9dda56b&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367974",
-               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://www.myvi.top/embed/cgzi3bhnqzzw5mpc4bxopr6qeh",
                "https://video.sibnet.ru/shell.php?videoid=3876617",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
                "https://smotret-anime.online/translations/embed/3178208"
@@ -149,7 +149,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239248&hash=251643763a7b5c8a&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367984",
-               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://www.myvi.top/embed/pxjik5bwxz8w7dwkbbbgf8w4ww",
                "https://video.sibnet.ru/shell.php?videoid=3876617",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
                "https://smotret-anime.online/translations/embed/3178208"
@@ -160,7 +160,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239249&hash=b0051771b3878837&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367985",
-               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://www.myvi.top/embed/6ogbpitynjowujq9jmggm5qaey",
                "https://video.sibnet.ru/shell.php?videoid=3876617",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
                "https://smotret-anime.online/translations/embed/3178208"
@@ -171,7 +171,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239254&hash=6ff7e281af40d1e8&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367988",
-               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://www.myvi.top/embed/wf4cb8asz4ww986fu6cfpfhp9c",
                "https://video.sibnet.ru/shell.php?videoid=3876617",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
                "https://smotret-anime.online/translations/embed/3178208"
@@ -182,7 +182,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239260&hash=bf9f9e9d7ddd3b92&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367989",
-               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://www.myvi.top/embed/ioibksyeicwwuruo89itpoqbky",
                "https://video.sibnet.ru/shell.php?videoid=3876617",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
                "https://smotret-anime.online/translations/embed/3178208"
