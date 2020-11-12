@@ -104,7 +104,7 @@
             "title":"Эпизод 10",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239208&hash=0cb67a9419ece659&hd=2",
-               "https://my.mail.ru/video/embed/2813423111838368314",
+               "https://my.mail.ru/video/embed/2813423111838367952",
                "https://www.myvi.tv/embed/d5ze8nfdyo6r98q49xiacjedgo",
                "https://video.sibnet.ru/shell.php?videoid=3872341",
                "https://www.mp4upload.com/embed-jh8vnyit87sz.html",
@@ -115,7 +115,7 @@
             "title":"Эпизод 11",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239215&hash=98442070d51e1a93&hd=2",
-               "https://my.mail.ru/video/embed/2813423111838368317",
+               "https://my.mail.ru/video/embed/2813423111838367960",
                "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
                "https://video.sibnet.ru/shell.php?videoid=3876617",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
@@ -126,7 +126,7 @@
             "title":"Эпизод 12",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239219&hash=dc5f21e2787431f4&hd=2",
-               "https://my.mail.ru/video/embed/2813423111838368320",
+               "https://my.mail.ru/video/embed/2813423111838367969",
                "https://www.myvi.tv/embed/ima4nxcbdnzrbmb377q9faswpc",
                "https://video.sibnet.ru/shell.php?videoid=3883337",
                "https://www.mp4upload.com/embed-5vknhax27m3c.html",
@@ -137,7 +137,7 @@
             "title":"Эпизод 13",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239230&hash=20917e53e9dda56b&hd=2",
-               "https://my.mail.ru/video/embed/2813423111838368317",
+               "https://my.mail.ru/video/embed/2813423111838367974",
                "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
                "https://video.sibnet.ru/shell.php?videoid=3876617",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
@@ -148,7 +148,7 @@
             "title":"Эпизод 14",
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239248&hash=251643763a7b5c8a&hd=2",
-               "https://my.mail.ru/video/embed/2813423111838368317",
+               "https://my.mail.ru/video/embed/2813423111838367984",
                "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
                "https://video.sibnet.ru/shell.php?videoid=3876617",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
