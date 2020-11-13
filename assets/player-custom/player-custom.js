@@ -9,6 +9,7 @@ function playerBlock(seriesData) {
 
     var playersTypes = {
         OK: 'ok.ru',
+        Google: 'google',
         SibNet: 'sibnet',
         ProtonVideo: 'protonvideo',
         YouTube: 'youtube',
