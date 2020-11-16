@@ -147,7 +147,7 @@
                "https://anivod.com/uv/203586/d2316c3fc3f0eb2dad67/720p",
                "https://www.myvi.tv/embed/ima4nxcbdnzrbmb377q9faswpc",
                "https://video.sibnet.ru/shell.php?videoid=3883337",
-               "https://www.mp4upload.com/embed-5vknhax27m3c.html",
+               "https://www.mp4upload.com/embed-t8oyssw8frd3.html",
                "https://smotret-anime.online/translations/embed/3185566"
             ]
          }
