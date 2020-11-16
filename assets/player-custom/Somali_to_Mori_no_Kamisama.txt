@@ -12,6 +12,7 @@
                "https://www.myvi.tv/embed/fw7ypejrz18rjbhqzf3dp1agka",
                "https://video.sibnet.ru/shell.php?videoid=3785464",
                "https://www.mp4upload.com/embed-d9v24vqqfsi2.html",
+               "https://protonvideo.to/iframe/f3fcc4cceb597fbb81e6189a4318124c/",
                "https://smotret-anime.online/translations/embed/3114966"
             ]
          },
@@ -25,6 +26,7 @@
                "https://www.myvi.tv/embed/kzjqmsmrox3rifsc6tyyq17xqh",
                "https://video.sibnet.ru/shell.php?videoid=3806452",
                "https://www.mp4upload.com/embed-0mew9ib11la4.html",
+               "https://protonvideo.to/iframe/ea48b9fc7c6bb87aedefd8a2f2807ba0/",
                "https://smotret-anime.online/translations/embed/3127284"
             ]
          },
@@ -38,6 +40,7 @@
                "https://www.myvi.tv/embed/ajrpa3htciarmpz9pt3g43exzw",
                "https://video.sibnet.ru/shell.php?videoid=3816016",
                "https://www.mp4upload.com/embed-86eyd3tuk5hy.html",
+               "https://protonvideo.to/iframe/b88c5d2818a87e1aa7cae9ef65147f75/",
                "https://smotret-anime.online/translations/embed/3132871"
             ]
          },
@@ -50,6 +53,7 @@
                "https://my.mail.ru/video/embed/2813423111838368298",
                "https://www.myvi.tv/embed/xqkmgchssw1widh9mibe8r4bfy",
                "https://www.mp4upload.com/embed-y7qghgyf8k42.html",
+               "https://protonvideo.to/iframe/b7640065c3d18ef41051c651eb3dfc8c/",
                "https://smotret-anime.online/translations/embed/3139385"
             ]
          },
@@ -63,6 +67,7 @@
                "https://www.myvi.tv/embed/77trfztgu73rpru9wufijb3cjw",
                "https://video.sibnet.ru/shell.php?videoid=3832126",
                "https://www.mp4upload.com/embed-r7ghyvoz6vuv.html",
+               "https://protonvideo.to/iframe/b83a43c83e2c32f6aebdd68a06be2c71/",
                "https://smotret-anime.online/translations/embed/3144873"
             ]
          },
@@ -76,6 +81,7 @@
                "https://www.myvi.tv/embed/asgtmqxchgmwzgpxiid6jg5gta",
                "https://video.sibnet.ru/shell.php?videoid=3845911",
                "https://www.mp4upload.com/embed-vdaq4nesz1qu.html",
+               "https://protonvideo.to/iframe/22604e8b0aa4b1703da1ca469599003e/",
                "https://smotret-anime.online/translations/embed/3150440"
             ]
          },
@@ -88,6 +94,7 @@
                "https://www.myvi.tv/embed/nctj8etncquwuj3tc95xs9ferr",
                "https://video.sibnet.ru/shell.php?videoid=3853746",
                "https://www.mp4upload.com/embed-9wbazm23vj8q.html",
+               "https://protonvideo.to/iframe/a6d1089735093897800282bfe980333e/",
                "https://smotret-anime.online/translations/embed/3155794"
             ]
          },
@@ -100,6 +107,7 @@
                "https://www.myvi.tv/embed/7czuzibwebwwbmtqx4io5dhe8o",
                "https://video.sibnet.ru/shell.php?videoid=3861308",
                "https://www.mp4upload.com/embed-2wr3dicjquhc.html",
+               "https://protonvideo.to/iframe/fe4ca42b27f27f988229591d6e5a42d2/",
                "https://smotret-anime.online/translations/embed/3161506"
             ]
          },
@@ -112,6 +120,7 @@
                "https://www.myvi.tv/embed/b4m8z5myie5rdci795syo9qwgr",
                "https://video.sibnet.ru/shell.php?videoid=3866461",
                "https://www.mp4upload.com/embed-2wc6oqhk76nh.html",
+               "https://protonvideo.to/iframe/11877d9061161bd5e8cca8d1ff855b1d/",
                "https://smotret-anime.online/translations/embed/3165564"
             ]
          },
@@ -124,6 +133,7 @@
                "https://www.myvi.tv/embed/d5ze8nfdyo6r98q49xiacjedgo",
                "https://video.sibnet.ru/shell.php?videoid=3872341",
                "https://www.mp4upload.com/embed-jh8vnyit87sz.html",
+               "https://protonvideo.to/iframe/e4c43ad7e70724d02a733087f4b26281/",
                "https://smotret-anime.online/translations/embed/3171865"
             ]
          },
@@ -136,6 +146,7 @@
                "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
                "https://video.sibnet.ru/shell.php?videoid=3876617",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
+               "https://protonvideo.to/iframe/a5b41249b6c5392cce469f848fc12a2b/",
                "https://smotret-anime.online/translations/embed/3178208"
             ]
          },
@@ -148,6 +159,7 @@
                "https://www.myvi.tv/embed/ima4nxcbdnzrbmb377q9faswpc",
                "https://video.sibnet.ru/shell.php?videoid=3883337",
                "https://www.mp4upload.com/embed-t8oyssw8frd3.html",
+               "https://protonvideo.to/iframe/fa0e26982e46266ccee243f974a9ac4d/",
                "https://smotret-anime.online/translations/embed/3185566"
             ]
          }
