@@ -1,0 +1,16 @@
+[
+   {
+      "title":"Люпен III",
+      "folder":[
+         {
+            "title":"Фильм 6",
+            "links":[
+               "https://vk.com/video_ext.php?oid=-121955899&id=456239079&hash=1f7a48575ed9998a&hd=2",
+               "https://video.sibnet.ru/shell.php?videoid=3296193",
+               "https://www.myvi.top/embed/4qt4bi1gokur3y4qjh7bi4znae",
+               "https://smotret-anime.online/translations/embed/1798675"
+            ]
+         }
+      ]
+   }
+]
