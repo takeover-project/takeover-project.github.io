@@ -9,6 +9,7 @@
                "https://anivod.com/uv/230556/7c0c3a27531670cb781b/720p",
                "https://video.sibnet.ru/shell.php?videoid=3296193",
                "https://www.myvi.top/embed/4qt4bi1gokur3y4qjh7bi4znae",
+               "https://protonvideo.to/iframe/809e0880b5ea2eac5be6fd4538ffd347/",
                "https://smotret-anime.online/translations/embed/1798675"
             ]
          }
