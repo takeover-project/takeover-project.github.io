@@ -11,7 +11,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3085726",
                "https://drive.google.com/file/d/0B5C8TR3r1ZT2dERqUVo3bUI3bEE/preview",
                "https://www.mp4upload.com/embed-75xqvcbvc7nf.html",
-               "https://smotret-anime.online/translations/embed/3114966"
+               "https://smotret-anime.online/translations/embed/1535006" 
             ]
          },
          {
@@ -23,7 +23,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3092811",
                "https://drive.google.com/file/d/0B5C8TR3r1ZT2UzZSejZNWFFQa0E/preview",
                "https://www.mp4upload.com/embed-0mew9ib11la4.html",
-               "https://smotret-anime.online/translations/embed/3127284"
+               "https://smotret-anime.online/translations/embed/1543239" 
             ]
          },
          {
@@ -35,7 +35,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3098196",
                "https://drive.google.com/file/d/0B5C8TR3r1ZT2c3VHTDQ2UmxiOXM/preview",
                "https://www.mp4upload.com/embed-86eyd3tuk5hy.html",
-               "https://smotret-anime.online/translations/embed/3132871"
+               "https://smotret-anime.online/translations/embed/2649638" 
             ]
          },
          {
@@ -47,7 +47,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3110764",
                "https://drive.google.com/file/d/0B5C8TR3r1ZT2Z3ViOWxob1ZDUTg/preview",
                "https://www.mp4upload.com/embed-y7qghgyf8k42.html",
-               "https://smotret-anime.online/translations/embed/3139385"
+               "https://smotret-anime.online/translations/embed/1569281" 
             ]
          },
          {
@@ -59,7 +59,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3125011",
                "https://drive.google.com/file/d/1eW_lZWtCjvb1k556wnqwFGps7cSEl0CS/preview",
                "https://www.mp4upload.com/embed-r7ghyvoz6vuv.html",
-               "https://smotret-anime.online/translations/embed/3144873"
+               "https://smotret-anime.online/translations/embed/1576478" 
             ]
          },
          {
@@ -71,7 +71,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3130957",
                "https://drive.google.com/file/d/1eA4aCE8KEOVC-9-fSJSg4UYcGmaM1r52/preview",
                "https://www.mp4upload.com/embed-vdaq4nesz1qu.html",
-               "https://smotret-anime.online/translations/embed/3150440"
+               "https://smotret-anime.online/translations/embed/1583516"  
             ]
          },
          {
@@ -83,7 +83,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3137588",
                "https://drive.google.com/file/d/1uzXnmcONYJXqME7Kdi0eWekTZBXqGjIY/preview",
                "https://www.mp4upload.com/embed-9wbazm23vj8q.html",
-               "https://smotret-anime.online/translations/embed/3155794"
+               "https://smotret-anime.online/translations/embed/1589862" 
             ]
          },
          {
@@ -95,7 +95,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3148560",
                "https://drive.google.com/file/d/1SY5sIB096H4Tx5oVosUUK261j7LshBJH/preview",
                "https://www.mp4upload.com/embed-2wr3dicjquhc.html",
-               "https://smotret-anime.online/translations/embed/3161506"
+               "https://smotret-anime.online/translations/embed/2655559" 
             ]
          },
          {
@@ -107,7 +107,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3155665",
                "https://drive.google.com/file/d/1zAWBebQbeHOfZn28T_KopJmtPIG8fwHB/preview",
                "https://www.mp4upload.com/embed-2wc6oqhk76nh.html",
-               "https://smotret-anime.online/translations/embed/3165564"
+               "https://smotret-anime.online/translations/embed/1605051" 
             ]
          },
          {
@@ -119,7 +119,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3178957",
                "https://drive.google.com/file/d/1mp7qJS1cpw0XLOVEKDddaXVNu5i54hJA/preview",
                "https://www.mp4upload.com/embed-jh8vnyit87sz.html",
-               "https://smotret-anime.online/translations/embed/3171865"
+               "https://smotret-anime.online/translations/embed/1613471" 
             ]
          },
          {
@@ -131,7 +131,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3185078",
                "https://drive.google.com/file/d/1u_PCet9vWPHc3oxr6txivVhHBGUdn5_9/preview",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
-               "https://smotret-anime.online/translations/embed/3178208"
+               "https://smotret-anime.online/translations/embed/1620671"  
             ]
          },
          {
@@ -143,7 +143,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3190343",
                "https://drive.google.com/file/d/1J_zMDdfbDpF0oL0U0BPqb0LnigpLWXze/preview",
                "https://www.mp4upload.com/embed-5vknhax27m3c.html",
-               "https://smotret-anime.online/translations/embed/3185566"
+               "https://smotret-anime.online/translations/embed/1630357"  
             ]
          },
          {
@@ -155,7 +155,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3198656",
                "https://drive.google.com/file/d/1KkCO-nv97-LXc8cws9MG-es6mk4-J3ny/preview",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
-               "https://smotret-anime.online/translations/embed/3178208"
+               "https://smotret-anime.online/translations/embed/1644396"  
             ]
          },
          {
@@ -167,7 +167,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3215528",
                "https://drive.google.com/file/d/1P1U-zR_XSRfnXyQ3wafwzu9bpxHpBMfA/preview",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
-               "https://smotret-anime.online/translations/embed/3178208"
+               "https://smotret-anime.online/translations/embed/1668677"  
             ]
          },
          {
@@ -179,7 +179,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3215529",
                "https://drive.google.com/file/d/1O9ATV7J1_IuEXic8Db8dOdTqaXhxOI41/preview",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
-               "https://smotret-anime.online/translations/embed/3178208"
+               "https://smotret-anime.online/translations/embed/1668704" 
             ]
          },
          {
@@ -191,7 +191,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3219599",
                "https://drive.google.com/file/d/1QC96fvk_AsaawLCsj1K3fcWI3x9lxAFY/preview",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
-               "https://smotret-anime.online/translations/embed/3178208"
+               "https://smotret-anime.online/translations/embed/1682910" 
             ]
          },
          {
@@ -203,7 +203,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3224377",
                "https://drive.google.com/file/d/1dxo_a_mK9fzZEvIUDSDfkoCxGZWQlGz7/preview",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
-               "https://smotret-anime.online/translations/embed/3178208"
+               "https://smotret-anime.online/translations/embed/1693803" 
             ]
          },
          {
@@ -215,7 +215,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3251799",
                "https://drive.google.com/file/d/1Mr2-J-MgmLaAfuCDSoryxQf3wgiDX3oK/preview",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
-               "https://smotret-anime.online/translations/embed/3178208"
+               "https://smotret-anime.online/translations/embed/1731957" 
             ]
          },
          {
@@ -227,7 +227,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3265512",
                "https://drive.google.com/file/d/1_uv9Nkk6IFaCOGhDH6h0hCWFw2Iv5pnn/preview",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
-               "https://smotret-anime.online/translations/embed/3178208"
+               "https://smotret-anime.online/translations/embed/1750923" 
             ]
          },
          {
@@ -239,7 +239,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3265520",
                "https://drive.google.com/file/d/12nU7o3avQy_CcRT_CY-14jyFwTi6G6-C/preview",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
-               "https://smotret-anime.online/translations/embed/3178208"
+               "https://smotret-anime.online/translations/embed/1750924" 
             ]
          },
          {
@@ -251,7 +251,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3265546",
                "https://drive.google.com/file/d/1HgLWYY-tIFzamE_Thuxl0cSz0175rOd-/preview",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
-               "https://smotret-anime.online/translations/embed/3178208"
+               "https://smotret-anime.online/translations/embed/1750967" 
             ]
          },
          {
@@ -263,7 +263,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3876617",
                "https://drive.google.com/file/d/15nMzZOXI1lMReZF285j_NSyxWR5zfZDa/preview",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
-               "https://smotret-anime.online/translations/embed/3178208"
+               "https://smotret-anime.online/translations/embed/1750968"  
             ]
          },
          {
@@ -275,7 +275,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3876617",
                "https://drive.google.com/file/d/1_cl-MZgzw_lNTRrdtDMA9ieNme8G0RFx/preview",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
-               "https://smotret-anime.online/translations/embed/3178208"
+               "https://smotret-anime.online/translations/embed/1751011" 
             ]
          },
          {
@@ -287,7 +287,7 @@
                "https://video.sibnet.ru/shell.php?videoid=3876617",
                "https://drive.google.com/file/d/1oLj8yuRZ0W5bXgyEHB0zbMLWBJu0XbVe/preview",
                "https://www.mp4upload.com/embed-x6c05buen6m8.html",
-               "https://smotret-anime.online/translations/embed/3178208"
+               "https://smotret-anime.online/translations/embed/1753607" 
             ]
          },
          {
