@@ -18,7 +18,6 @@ function playerBlock(seriesData) {
         MP4UPLOAD: 'mp4upload.com',
         MAIL: 'mail.ru',
         MYVI: 'myvi.',
-        Yandex: 'yandex.ru',
         Smotret_anime: 'smotret-anime.online'
     };
 
