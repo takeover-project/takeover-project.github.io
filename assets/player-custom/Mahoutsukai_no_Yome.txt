@@ -10,8 +10,7 @@
                "https://www.myvi.top/embed/bzk166mapozwfkm5dqn4ykddee",
                "https://video.sibnet.ru/shell.php?videoid=3085726",
                "https://drive.google.com/file/d/0B5C8TR3r1ZT2dERqUVo3bUI3bEE/preview",
-               "https://www.mp4upload.com/embed-put34hvvb3az.html",
-               "https://disk.yandex.ru/i/e2qx5Si8x3LCnA",
+               "https://www.mp4upload.com/embed-put34hvvb3az.html",           
                "https://smotret-anime.online/translations/embed/1535006" 
             ]
          },
