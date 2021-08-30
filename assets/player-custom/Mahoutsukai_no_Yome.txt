@@ -199,7 +199,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239260&hash=bf9f9e9d7ddd3b92&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367989",
-               "https://www.myvi.top/embed/ioibksyeicwwuruo89itpoqbky",
+               "https://www.myvi.top/embed/ow7qa6wdo6gr5mkaiptejt87fr",
                "https://video.sibnet.ru/shell.php?videoid=3224377",
                "https://drive.google.com/file/d/1dxo_a_mK9fzZEvIUDSDfkoCxGZWQlGz7/preview",
                "https://www.mp4upload.com/embed-x9uomsakbury.html",
@@ -211,7 +211,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239263&hash=e4c4ff42324640af&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367990",
-               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://www.myvi.top/embed/31bxscod5chrmg85gpn5u8wg7w",
                "https://video.sibnet.ru/shell.php?videoid=3251799",
                "https://drive.google.com/file/d/1Mr2-J-MgmLaAfuCDSoryxQf3wgiDX3oK/preview",
                "https://www.mp4upload.com/embed-6dhk6mqqg7h8.html",
@@ -223,7 +223,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239268&hash=eb9eee29ec5a8d9f&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367992",
-               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://www.myvi.top/embed/bitkbrca95srzykkxm775mauoc",
                "https://video.sibnet.ru/shell.php?videoid=3265512",
                "https://drive.google.com/file/d/1_uv9Nkk6IFaCOGhDH6h0hCWFw2Iv5pnn/preview",
                "https://www.mp4upload.com/embed-a05xqgvrsj2i.html",
@@ -235,7 +235,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239269&hash=2b8355d56cc3490d&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367993",
-               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://www.myvi.top/embed/psghs5x3wg6r3md11w1ob4qx9r",
                "https://video.sibnet.ru/shell.php?videoid=3265520",
                "https://drive.google.com/file/d/12nU7o3avQy_CcRT_CY-14jyFwTi6G6-C/preview",
                "https://www.mp4upload.com/embed-pdqbsh4gzoma.html",
@@ -247,7 +247,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239270&hash=c4e0bdbfd47b43fc&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367994",
-               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://www.myvi.top/embed/pb6r5pz4ux5w9dr9qsaamxxiiw",
                "https://video.sibnet.ru/shell.php?videoid=3265546",
                "https://drive.google.com/file/d/1HgLWYY-tIFzamE_Thuxl0cSz0175rOd-/preview",
                "https://www.mp4upload.com/embed-35mwyeiodexa.html",
@@ -259,7 +259,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239271&hash=66f121314cf5d380&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367995",
-               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://www.myvi.top/embed/tcpnxkch3ypruged9hp7y6rr6a",
                "https://video.sibnet.ru/shell.php?videoid=4399645",
                "https://drive.google.com/file/d/15nMzZOXI1lMReZF285j_NSyxWR5zfZDa/preview",
                "https://www.mp4upload.com/embed-9lwbv07gpptw.html",
@@ -271,7 +271,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239272&hash=7cd158541a6e55e6&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367996",
-               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://www.myvi.top/embed/hdkycr879h9rimht4asufi31oh",
                "https://video.sibnet.ru/shell.php?videoid=4399646",
                "https://drive.google.com/file/d/1_cl-MZgzw_lNTRrdtDMA9ieNme8G0RFx/preview",
                "https://www.mp4upload.com/embed-2vcqcdn59cjv.html",
@@ -283,7 +283,7 @@
             "links":[
                "https://vk.com/video_ext.php?oid=-130051580&id=456239274&hash=6f8aac0d2df87212&hd=2",
                "https://my.mail.ru/video/embed/2813423111838367997",
-               "https://www.myvi.tv/embed/13r6hd8rrb9r988sktupfgti9y",
+               "https://www.myvi.top/embed/ni3h9gxipgdwintyumh8yed6mo",
                "https://video.sibnet.ru/shell.php?videoid=4399648",
                "https://drive.google.com/file/d/1oLj8yuRZ0W5bXgyEHB0zbMLWBJu0XbVe/preview",
                "https://www.mp4upload.com/embed-q6e0132szk6f.html",
