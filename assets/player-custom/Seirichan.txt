@@ -1,0 +1,16 @@
+[
+   {
+      "title":"Сэйри-тян",
+      "folder":[
+         {
+            "title":"Фильм",
+            "links":[
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240252&hash=ba584a06ff6aa9ed",                           
+               "https://my.mail.ru/video/embed/2813423111838368469",
+               "https://ok.ru/videoembed/2725539941033",
+               "https://anivod.com/uv/286412/89aefb19af1a102eef88/720p"
+            ]
+         }
+      ]
+   }
+]
