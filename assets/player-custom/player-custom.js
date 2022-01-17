@@ -11,6 +11,7 @@ function playerBlock(seriesData) {
         OK: 'ok.ru',
         Kodik: 'anivod.com',
         Google: 'google',
+        MEGA: 'mega.nz',
         SibNet: 'sibnet',
         ProtonVideo: 'protonvideo',
         YouTube: 'youtube',
