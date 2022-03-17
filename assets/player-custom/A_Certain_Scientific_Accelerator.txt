@@ -135,17 +135,5 @@
             ]
          }
       ]
-   },
-   {
-      "title":"Спешл",
-      "folder":[
-         {
-            "title":"SP 1",
-            "links":[
-               "https://ok.ru/videoembed/3427213183657",             
-               "https://smotret-anime.com/translations/embed/3803058"
-            ]
-         }
-      ]
    }
 ]
