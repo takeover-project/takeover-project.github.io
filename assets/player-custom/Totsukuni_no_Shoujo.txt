@@ -1,0 +1,16 @@
+[
+   {
+      "title":"Девочка из Чужеземья",
+      "folder":[
+         {
+            "title":"Фильм",
+            "links":[
+               "https://vk.com/video_ext.php?oid=-181373538&id=456239071&hash=40f73ebdf2fd8fe8",             
+               "https://ok.ru/videoembed/2938609470121",
+               "https://my.mail.ru/video/embed/2813423111838368482",
+               "https://protonvideo.to/iframe/02d613617dbf044b82f3047d7932df06/"
+            ]
+         }
+      ]
+   }
+]
