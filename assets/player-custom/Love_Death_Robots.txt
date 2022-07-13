@@ -1,0 +1,16 @@
+[
+   {
+      "title":"3 сезон",
+      "folder":[
+         {
+            "title":"Марафон",
+            "links":[
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240406&hash=569478e26502b685&hd=2",             
+               "https://ok.ru/videoembed/2938609470121",
+               "https://my.mail.ru/video/embed/2813423111838368482",
+               "https://protonvideo.to/iframe/02d613617dbf044b82f3047d7932df06/"
+            ]
+         }
+      ]
+   }
+]
