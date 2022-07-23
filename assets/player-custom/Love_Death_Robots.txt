@@ -9,6 +9,78 @@
                "https://my.mail.ru/video/embed/2813423111838368513",
                "https://protonvideo.to/iframe/02d613617dbf044b82f3047d7932df06/"
             ]
+         },
+         {
+            "title":"Эпизод 1",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798932",                    
+               "https://my.mail.ru/video/embed/2813423111838368513",
+               "https://protonvideo.to/iframe/02d613617dbf044b82f3047d7932df06/"
+            ]
+         },
+         {
+            "title":"Эпизод 2,
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798936",                    
+               "https://my.mail.ru/video/embed/2813423111838368513",
+               "https://protonvideo.to/iframe/02d613617dbf044b82f3047d7932df06/"
+            ]
+         },
+         {
+            "title":"Эпизод 3",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798940",                    
+               "https://my.mail.ru/video/embed/2813423111838368513",
+               "https://protonvideo.to/iframe/02d613617dbf044b82f3047d7932df06/"
+            ]
+         },
+         {
+            "title":"Эпизод 4",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798943",                    
+               "https://my.mail.ru/video/embed/2813423111838368513",
+               "https://protonvideo.to/iframe/02d613617dbf044b82f3047d7932df06/"
+            ]
+         },
+         {
+            "title":"Эпизод 5",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798947",                    
+               "https://my.mail.ru/video/embed/2813423111838368513",
+               "https://protonvideo.to/iframe/02d613617dbf044b82f3047d7932df06/"
+            ]
+         },
+         {
+            "title":"Эпизод 6",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798952",                    
+               "https://my.mail.ru/video/embed/2813423111838368513",
+               "https://protonvideo.to/iframe/02d613617dbf044b82f3047d7932df06/"
+            ]
+         },
+         {
+            "title":"Эпизод 7",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798957",                    
+               "https://my.mail.ru/video/embed/2813423111838368513",
+               "https://protonvideo.to/iframe/02d613617dbf044b82f3047d7932df06/"
+            ]
+         },
+         {
+            "title":"Эпизод 8",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798960",                    
+               "https://my.mail.ru/video/embed/2813423111838368513",
+               "https://protonvideo.to/iframe/02d613617dbf044b82f3047d7932df06/"
+            ]
+         },
+         {
+            "title":"Эпизод 9",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4799043",                    
+               "https://my.mail.ru/video/embed/2813423111838368513",
+               "https://protonvideo.to/iframe/02d613617dbf044b82f3047d7932df06/"
+            ]
          }
       ]
    }
