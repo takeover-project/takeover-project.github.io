@@ -19,7 +19,7 @@
             ]
          },
          {
-            "title":"Эпизод 2,
+            "title":"Эпизод 2",
             "links":[
                "https://video.sibnet.ru/shell.php?videoid=4798936",                    
                "https://my.mail.ru/video/embed/2813423111838368513",
