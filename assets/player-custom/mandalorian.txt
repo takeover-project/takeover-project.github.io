@@ -5,6 +5,7 @@
          {
             "title":"Эпизод 1",
             "links":[
+               "https://mega.nz/embed/RNky1I4Y#LI2XUyzR808120jdx5tAWZrzIhkB_LETw_JC4ycWzsg",
                "https://video.sibnet.ru/shell.php?videoid=4798932"
             ]
          },
