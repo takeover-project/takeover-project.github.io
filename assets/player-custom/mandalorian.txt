@@ -6,6 +6,7 @@
             "title":"Эпизод 1",
             "links":[
                "https://mega.nz/embed/RNky1I4Y#LI2XUyzR808120jdx5tAWZrzIhkB_LETw_JC4ycWzsg",
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240501&hash=27d13da9c76371c2",
                "https://video.sibnet.ru/shell.php?videoid=4798932"
             ]
          },
