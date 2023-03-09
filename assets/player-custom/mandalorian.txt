@@ -11,7 +11,7 @@
          {
             "title":"Эпизод 2",
             "links":[
-               "https://video.sibnet.ru/shell.php?videoid=4798936"
+               "https://mega.nz/embed/gI0gHQRY#0hR7QbmUO5VS9xSDKRad_KJfTvTqQBat2JFlhWg2mfg"
             ]
          },
          {
