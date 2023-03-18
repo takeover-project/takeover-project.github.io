@@ -17,7 +17,7 @@
          {
             "title":"Эпизод 3",
             "links":[
-               "https://video.sibnet.ru/shell.php?videoid=4798940"
+               "https://mega.nz/embed/ZZdHEazR#5KtFchDyE88dw4Xwskr9GbWrqknRS6nAOW-rpsOrKdg"
             ]
          },
          {
