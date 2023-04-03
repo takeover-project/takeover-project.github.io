@@ -29,7 +29,7 @@
          {
             "title":"Эпизод 5",
             "links":[
-               "https://video.sibnet.ru/shell.php?videoid=4798947"
+               "https://mega.nz/embed/ZQkyQayY#zcZlduEsF8CqatLwFGaOtvr3RD8bFU2Ra9CxK5PJUus"
             ]
          },
          {
