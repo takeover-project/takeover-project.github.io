@@ -35,7 +35,7 @@
          {
             "title":"Эпизод 6",
             "links":[
-               "https://video.sibnet.ru/shell.php?videoid=4798952"
+               "https://mega.nz/embed/UMMmEJrT#pFsi_gpnVBWlm5GzfuJ2AhaHRSU_8HWqp5XFKHvAl_U"
             ]
          },
          {
