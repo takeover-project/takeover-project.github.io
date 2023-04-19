@@ -41,7 +41,7 @@
          {
             "title":"Эпизод 7",
             "links":[
-               "https://video.sibnet.ru/shell.php?videoid=4798957"
+               "https://mega.nz/embed/kMs0nBxC#Nj4l9Dojghq8FzjNV_RWPVqPTyHAzQY0YNpF71MW5fA"
             ]
          },
          {
