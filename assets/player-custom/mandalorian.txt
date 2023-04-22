@@ -47,7 +47,7 @@
          {
             "title":"Эпизод 8",
             "links":[
-               "https://video.sibnet.ru/shell.php?videoid=4798960"
+               "https://mega.nz/embed/VYMChCoJ#WWSgK9dZ6Dp6FKNdqPM_Oeip6oZo7p_KHHfvXsU8A30"
             ]
          }
       ]
