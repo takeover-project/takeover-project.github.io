@@ -14681,3 +14681,17 @@ section.lazy-placeholder:after {
 .cid-scov2xsGSA .media-container-row .mbr-text {
   color: #efefef;
 }
+.cid-u2L4QYQ2Ok {
+  background: #149dcc;
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-u2L4QYQ2Ok .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-u2L4QYQ2Ok .video-block {
+    width: 100% !important;
+  }
+}
