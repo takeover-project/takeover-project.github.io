@@ -14693,7 +14693,8 @@ section.lazy-placeholder:after {
   margin: auto;
 }
 .cid-u2L4QYQ2Ok .video-block2 {
-  margin-top: 40px;
+  padding-top: 40px;
+  margin: auto;
 }
 @media (max-width: 768px) {
   .cid-u2L4QYQ2Ok .video-block {
