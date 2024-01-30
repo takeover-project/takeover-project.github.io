@@ -14701,3 +14701,8 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+@media (max-width: 768px) {
+  .cid-u2L4QYQ2Ok .video-block2 {
+    width: 100% !important;
+  }
+}
