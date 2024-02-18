@@ -160,5 +160,18 @@
             ]
          }
       ]
+   },
+{
+		"title": "Каверы",
+		"folder": [{
+			"title": "Opening 1",
+			"links": [
+				"https://www.youtube.com/embed/-rBIPJYapu0?si=8E6cuRF3GWKdh56b",
+				"https://vk.com/video_ext.php?oid=-130051580&id=456240057&hd=2",
+				"https://ok.ru/videoembed/1481040399017",
+				"https://my.mail.ru/video/embed/2813423111838368307"
+            ]
+         }
+      ]
    }
 ]
