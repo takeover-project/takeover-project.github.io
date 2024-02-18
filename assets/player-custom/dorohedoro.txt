@@ -4,7 +4,7 @@
 				"title": "Эпизод 1",
 				"links": [
 					"https://video.sibnet.ru/shell.php?videoid=3801912",
-					"https://www.mp4upload.com/embed-y0c5ke21vfnh.html",
+					"https://my.mail.ru/video/embed/2813423111838368293",
 					"https://video.sibnet.ru/shell.php?videoid=3650708",
 					"https://smotret-anime.online/translations/embed/2886541",
 					"https://anivod.com/uv/231377/ee003920f777029a1584/720p",
@@ -15,7 +15,7 @@
 				"title": "Эпизод 2",
 				"links": [
 					"https://video.sibnet.ru/shell.php?videoid=3819042",
-					"https://www.mp4upload.com/embed-0ik5h3aqhcoy.html",
+					"https://my.mail.ru/video/embed/2813423111838368295",
 					"https://video.sibnet.ru/shell.php?videoid=3702903",
 					"https://smotret-anime.online/translations/embed/2892353",
 					"https://anivod.com/uv/231379/3d9b331751d31d23df07/720p",
@@ -26,7 +26,7 @@
 				"title": "Эпизод 3",
 				"links": [
 					"https://video.sibnet.ru/shell.php?videoid=3824711",
-					"https://www.mp4upload.com/embed-l0t79rrxzpkn.html",
+					"https://my.mail.ru/video/embed/2813423111838368299",
 					"https://video.sibnet.ru/shell.php?videoid=3702905",
 					"https://smotret-anime.online/translations/embed/2900217",
 					"https://anivod.com/uv/231380/6dbcb54595bdbfb43d7a/720p",
@@ -37,7 +37,7 @@
 				"title": "Эпизод 4",
 				"links": [
 					"https://video.sibnet.ru/shell.php?videoid=3841229",
-					"https://www.mp4upload.com/embed-6v8qaq8uu9wj.html",
+					"https://my.mail.ru/video/embed/2813423111838368301",
 					"https://video.sibnet.ru/shell.php?videoid=3702909",
 					"https://smotret-anime.online/translations/embed/2907267",
 					"https://anivod.com/uv/231382/6abbf319f2e6241c86e0/720p",
@@ -48,7 +48,7 @@
 				"title": "Эпизод 5",
 				"links": [
 					"https://video.sibnet.ru/shell.php?videoid=3850965",
-					"https://www.mp4upload.com/embed-77qc8skqgi4y.html",
+					"https://my.mail.ru/video/embed/2813423111838368305",
 					"https://video.sibnet.ru/shell.php?videoid=3702914",
 					"https://smotret-anime.online/translations/embed/2913496",
 					"https://anivod.com/uv/231383/2939fa231e4f6979b198/720p",
@@ -59,7 +59,7 @@
 				"title": "Эпизод 6",
 				"links": [
 					"https://video.sibnet.ru/shell.php?videoid=3859404",
-					"https://www.mp4upload.com/embed-w62vqpa9ne6d.html",
+					"https://my.mail.ru/video/embed/2813423111838368308",
 					"https://video.sibnet.ru/shell.php?videoid=3702924",
 					"https://smotret-anime.online/translations/embed/2919465",
 					"https://anivod.com/uv/231384/acc0a5e17fc1cfd77a97/720p",
@@ -70,7 +70,7 @@
 				"title": "Эпизод 7",
 				"links": [
 					"https://video.sibnet.ru/shell.php?videoid=3865142",
-					"https://www.mp4upload.com/embed-taodc0rr0wpd.html",
+					"https://my.mail.ru/video/embed/2813423111838368310",
 					"https://video.sibnet.ru/shell.php?videoid=3702925",
 					"https://smotret-anime.online/translations/embed/2928215",
 					"https://anivod.com/uv/231385/38fee3e0f646fc59aca6/720p",
@@ -81,7 +81,7 @@
 				"title": "Эпизод 8",
 				"links": [
 					"https://video.sibnet.ru/shell.php?videoid=3871311",
-					"https://www.mp4upload.com/embed-czjw9ag2pg6o.html",
+					"https://my.mail.ru/video/embed/2813423111838368313",
 					"https://video.sibnet.ru/shell.php?videoid=3702927",
 					"https://smotret-anime.online/translations/embed/2939881",
 					"https://anivod.com/uv/231386/488b147aea98ff3f1aee/720p",
@@ -92,7 +92,7 @@
 				"title": "Эпизод 9",
 				"links": [
 					"https://video.sibnet.ru/shell.php?videoid=3873530",
-					"https://www.mp4upload.com/embed-t5p9l6pn7jml.html",
+					"https://my.mail.ru/video/embed/2813423111838368315",
 					"https://video.sibnet.ru/shell.php?videoid=3702931",
 					"https://smotret-anime.online/translations/embed/2945768",
 					"https://anivod.com/uv/231387/66307b95f945d68ad5d9/720p",
@@ -103,7 +103,7 @@
 				"title": "Эпизод 10",
 				"links": [
 					"https://video.sibnet.ru/shell.php?videoid=3877177",
-					"https://www.mp4upload.com/embed-h8dq11ci5orv.html",
+					"https://my.mail.ru/video/embed/2813423111838368318",
 					"https://video.sibnet.ru/shell.php?videoid=3702932",
 					"https://smotret-anime.online/translations/embed/2951666",
 					"https://anivod.com/uv/231388/397edb8f53a930adf70d/720p",
@@ -114,7 +114,7 @@
 				"title": "Эпизод 11",
 				"links": [
 					"https://video.sibnet.ru/shell.php?videoid=3879542",
-					"https://www.mp4upload.com/embed-62ygcva94da6.html",
+					"https://my.mail.ru/video/embed/2813423111838368319",
 					"https://video.sibnet.ru/shell.php?videoid=3705783",
 					"https://smotret-anime.online/translations/embed/2956671",
 					"https://anivod.com/uv/231389/427666df7f379b72dcff/720p",
@@ -125,7 +125,7 @@
 				"title": "Эпизод 12",
 				"links": [
 					"https://video.sibnet.ru/shell.php?videoid=3886306",
-					"https://www.mp4upload.com/embed-bhi5212urbny.html",
+					"https://my.mail.ru/video/embed/2813423111838368321",
 					"https://video.sibnet.ru/shell.php?videoid=3709258",
 					"https://smotret-anime.online/translations/embed/2968486",
 					"https://anivod.com/uv/231390/8fa52a6ce6b73c675a79/720p",
@@ -140,8 +140,8 @@
 			"title": "Ma no Omake OVA 4",
 			"links": [
 				"https://video.sibnet.ru/shell.php?videoid=3932302",
-				"https://anivod.com/uv/325813/97b2d1954e17a40ac334/720p",
-				"https://smotret-anime.com/translations/embed/3803058",
+				"https://my.mail.ru/video/embed/2813423111838368339",
+				"https://ok.ru/videoembed/1563820427945",
 				"https://protonvideo.to/iframe/e1c6b69f7ad88c87835490e926d3e251/"
         ]
       },
@@ -149,7 +149,7 @@
        "title":"Ma no Omake OVA FULL",
        "links":[
          "https://video.sibnet.ru/shell.php?videoid=3991919",
-         "https://my.mail.ru/video/embed/2813423111838368320",
+         "https://my.mail.ru/video/embed/2813423111838368347",
          "https://anivod.com/uv/203586/d2316c3fc3f0eb2dad67/720p",
          "https://www.myvi.tv/embed/ima4nxcbdnzrbmb377q9faswpc",
          "https://video.sibnet.ru/shell.php?videoid=3883337",
