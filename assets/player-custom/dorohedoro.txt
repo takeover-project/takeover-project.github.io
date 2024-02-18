@@ -58,7 +58,7 @@
 			{
 				"title": "Эпизод 6",
 				"links": [
-					https://video.sibnet.ru/shell.php?videoid=3859404",
+					"https://video.sibnet.ru/shell.php?videoid=3859404",
 					"https://www.mp4upload.com/embed-w62vqpa9ne6d.html",
 					"https://video.sibnet.ru/shell.php?videoid=3702924",
 					"https://smotret-anime.online/translations/embed/2919465",
