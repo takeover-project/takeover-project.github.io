@@ -8,7 +8,7 @@
                "https://vk.com/video_ext.php?oid=-181373538&id=456239071&hash=40f73ebdf2fd8fe8",             
                "https://ok.ru/videoembed/2938609470121",
                "https://my.mail.ru/video/embed/2813423111838368482",
-               "https://protonvideo.to/iframe/02d613617dbf044b82f3047d7932df06/"
+               "https://aniqit.com/video/85440/26e440c680dcabcc1319f6f2ceacb856/720p"
             ]
          }
       ]
