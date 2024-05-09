@@ -2,48 +2,74 @@
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Алфавитный поиск</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Видеоплеер</title>
 <style>
-  #searchResults {
-    margin-top: 20px;
+  .video-player {
+    width: 100%;
+    max-width: 640px;
+    margin: auto;
+  }
+  select, button {
+    margin: 5px;
   }
 </style>
 </head>
 <body>
 
-<label for="alphabetSearch">Выберите букву:</label>
-<select id="alphabetSearch" onchange="alphabetSearch()">
-  <option value="">--Выберите букву--</option>
-  <option value="А">А</option>
-  <option value="Б">Б</option>
-  <!-- Добавьте остальные буквы алфавита -->
-</select>
+<div class="video-player">
+  <select id="season">
+    <option value="season1">Сезон 1</option>
+    <option value="season2">Сезон 2</option>
+    <!-- Добавьте дополнительные сезоны по необходимости -->
+  </select>
 
-<div id="searchResults"></div>
+  <select id="episode">
+    <option value="episode1">Серия 1</option>
+    <option value="episode2">Серия 2</option>
+    <!-- Добавьте дополнительные серии по необходимости -->
+  </select>
+
+  <select id="hosting">
+    <option value="youtube">YouTube</option>
+    <option value="vimeo">Vimeo</option>
+    <!-- Добавьте дополнительные хостинги по необходимости -->
+  </select>
+
+  <button onclick="loadVideo()">Загрузить Видео</button>
+  <br>
+
+  <iframe id="videoFrame" width="640" height="360" src="" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <script>
-  // Предположим, что у нас есть массив объектов для поиска
-  var items = [
-    { name: "Анна" },
-    { name: "Алексей" },
-    { name: "Борис" },
-    // ... добавьте другие объекты
-  ];
+  function loadVideo() {
+    var season = document.getElementById('season').value;
+    var episode = document.getElementById('episode').value;
+    var hosting = document.getElementById('hosting').value;
 
-  function alphabetSearch() {
-    var letter = document.getElementById('alphabetSearch').value;
-    var filteredItems = items.filter(item => item.name.startsWith(letter));
-    displayResults(filteredItems);
+    // Здесь должна быть логика для формирования URL в зависимости от выбранного хостинга
+    // Пример URL для YouTube: 'https://www.youtube.com/embed/VIDEO_ID'
+    // Пример URL для Vimeo: 'https://player.vimeo.com/video/VIDEO_ID'
+
+    // Предположим, что у нас есть функция getVideoId, которая возвращает ID видео
+    var videoId = getVideoId(season, episode, hosting);
+
+    var url = '';
+    if (hosting === 'youtube') {
+      url = 'https://www.youtube.com/embed/' + videoId;
+    } else if (hosting === 'vimeo') {
+      url = 'https://player.vimeo.com/video/' + videoId;
+    }
+
+    document.getElementById('videoFrame').src = url;
   }
 
-  function displayResults(results) {
-    var resultsContainer = document.getElementById('searchResults');
-    resultsContainer.innerHTML = ''; // Очистить предыдущие результаты
-    results.forEach(function(item) {
-      var div = document.createElement('div');
-      div.textContent = item.name;
-      resultsContainer.appendChild(div);
-    });
+  function getVideoId(season, episode, hosting) {
+    // Здесь должна быть логика для получения ID видео на основе сезона, серии и хостинга
+    // Это может быть запрос к серверу или поиск в локальной базе данных
+    // Возвращаем фиктивный ID для примера
+    return 'dQw4w9WgXcQ'; // Замените на реальный ID видео
   }
 </script>
 
