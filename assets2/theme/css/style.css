@@ -959,3 +959,8 @@ blockquote {
 	top: 0;
 	left: -2400px;
 }
+.mbr-section-btn {
+    margin-left: -0.25rem;
+    margin-right: -0.25rem;
+    font-size: 0;
+}
