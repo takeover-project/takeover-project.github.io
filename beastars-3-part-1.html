@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Название аниме - Просмотр</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #e6e6e6;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            color: #ff7eb9;
+            text-shadow: 0 0 10px rgba(255, 126, 185, 0.5);
+        }
+        
+        .back-link {
+            display: inline-block;
+            margin-top: 15px;
+            color: #a5b4fc;
+            text-decoration: none;
+            font-size: 1.1rem;
+            transition: color 0.3s ease;
+        }
+        
+        .back-link:hover {
+            color: #ff7eb9;
+        }
+        
+        .content {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        .poster {
+            flex: 0 0 300px;
+        }
+        
+        .poster img {
+            width: 100%;
+            border-radius: 10px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+        }
+        
+        .info {
+            flex: 1;
+            min-width: 300px;
+        }
+        
+        .info-section {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .info-title {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+            color: #ff7eb9;
+            border-bottom: 2px solid #ff7eb9;
+            padding-bottom: 5px;
+        }
+        
+        .info-item {
+            margin-bottom: 10px;
+            display: flex;
+        }
+        
+        .info-label {
+            font-weight: bold;
+            min-width: 150px;
+            color: #a5b4fc;
+        }
+        
+        .info-value {
+            flex: 1;
+        }
+        
+        .plot {
+            line-height: 1.6;
+        }
+        
+        .player-section {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        
+        .player-wrapper {
+            display: inline-block;
+            background: rgba(0, 0, 0, 0.3);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+        }
+        
+        .player-title {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+            color: #ff7eb9;
+        }
+        
+        iframe {
+            border-radius: 8px;
+            max-width: 100%;
+        }
+        
+        .download-section {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        
+        .download-btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #ff7eb9 0%, #ff65a3 100%);
+            color: #1a1a2e;
+            padding: 15px 30px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.2rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(255, 126, 185, 0.4);
+        }
+        
+        .download-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(255, 126, 185, 0.6);
+        }
+        
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            margin-top: 40px;
+        }
+        
+        .social-title {
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            color: #ff7eb9;
+        }
+        
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        
+        .social-link {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 50px;
+            height: 50px;
+            background: #2d3748;
+            border-radius: 50%;
+            transition: all 0.3s ease;
+            color: #e6e6e6;
+            text-decoration: none;
+            font-size: 1.5rem;
+        }
+        
+        .social-link:hover {
+            background: #ff7eb9;
+            color: #1a1a2e;
+            transform: translateY(-3px);
+        }
+        
+        @media (max-width: 768px) {
+            .content {
+                flex-direction: column;
+            }
+            
+            .poster {
+                flex: 1;
+                text-align: center;
+            }
+            
+            .poster img {
+                max-width: 300px;
+            }
+            
+            iframe {
+                width: 100%;
+                height: auto;
+                aspect-ratio: 16/9;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Осень Неудалі певісів і</h1>
+            <a href="#" class="back-link">← Вернуться к списку аниме</a>
+        </header>
+        
+        <div class="content">
+            <div class="poster">
+                <img src="https://clck.ru/3QTWrZ" alt="Постер аниме Осень Неудалі певісів і">
+            </div>
+            
+            <div class="info">
+                <div class="info-section">
+                    <h2 class="info-title">Информация</h2>
+                    <div class="info-item">
+                        <div class="info-label">Год выпуска:</div>
+                        <div class="info-value">2023</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Жанр:</div>
+                        <div class="info-value">Драма, Повседневность, Романтика</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Кол-во эпизодов:</div>
+                        <div class="info-value">12</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Студия:</div>
+                        <div class="info-value">Kyoto Animation</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Режиссёр:</div>
+                        <div class="info-value">Нацуки Такахаси</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Автор оригинала:</div>
+                        <div class="info-value">Юкихиро Сато</div>
+                    </div>
+                </div>
+                
+                <div class="info-section">
+                    <h2 class="info-title">Сюжет</h2>
+                    <div class="plot">
+                        История рассказывает о группе студентов, которые сталкиваются с проблемами взросления и поиска своего места в жизни. Главный герой, переживая личную трагедию, находит утешение в осенних пейзажах и новых знакомствах. По мере развития сюжета персонажи проходят через сложные эмоциональные испытания, которые помогают им лучше понять себя и окружающих.
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="player-section">
+            <div class="player-wrapper">
+                <h2 class="player-title">Просмотр аниме</h2>
+                <iframe src="https://aniqit.com/serial/63708/9bf12dbe02737f1f507a103c03062a13/720p?only_translations=1343" width="1280" height="720" frameborder="0" AllowFullScreen allow="autoplay *; fullscreen *"></iframe>
+            </div>
+        </div>
+        
+        <div class="download-section">
+            <a href="https://disk.yandex.ru/d/0QHKn2NaP8-NfQ" target="_blank" class="download-btn">Скачать аниме</a>
+        </div>
+        
+        <footer>
+            <h3 class="social-title">Мы в социальных сетях</h3>
+            <div class="social-links">
+                <a href="https://vk.com/takeover_project" target="_blank" class="social-link">VK</a>
+                <a href="https://www.youtube.com/@TAKEOVERProject" target="_blank" class="social-link">YT</a>
+                <a href="https://t.me/TAKEOVERproject" target="_blank" class="social-link">TG</a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
