@@ -1,0 +1,149 @@
+[{
+		"title": "Сезон 1",
+		"folder": [{
+				"title": "Эпизод 1",
+				"links": [
+					"https://video.sibnet.ru/shell.php?videoid=3801912",
+					"https://my.mail.ru/video/embed/2813423111838368293",
+					"https://vk.com/video_ext.php?oid=-130051580&id=456240002&hd=2",
+					"https://smotret-anime.com/translations/embed/3123579"
+				]
+			},
+			{
+				"title": "Эпизод 2",
+				"links": [
+					"https://video.sibnet.ru/shell.php?videoid=3819042",
+					"https://my.mail.ru/video/embed/2813423111838368295",
+					"https://vk.com/video_ext.php?oid=-130051580&id=456240010&hd=2",
+					"https://smotret-anime.com/translations/embed/3129700"
+				]
+			},
+			{
+				"title": "Эпизод 3",
+				"links": [
+					"https://video.sibnet.ru/shell.php?videoid=3824711",
+					"https://my.mail.ru/video/embed/2813423111838368299",
+					"https://vk.com/video_ext.php?oid=-130051580&id=456240020&hd=2",
+					"https://smotret-anime.com/translations/embed/3142712"
+				]
+			},
+			{
+				"title": "Эпизод 4",
+				"links": [
+					"https://video.sibnet.ru/shell.php?videoid=3841229",
+					"https://my.mail.ru/video/embed/2813423111838368301",
+					"https://vk.com/video_ext.php?oid=-130051580&id=456240033&hd=2",
+					"https://smotret-anime.com/translations/embed/3146332"
+				]
+			},
+			{
+				"title": "Эпизод 5",
+				"links": [
+					"https://video.sibnet.ru/shell.php?videoid=3850965",
+					"https://my.mail.ru/video/embed/2813423111838368305",
+					"https://vk.com/video_ext.php?oid=-130051580&id=456240044&hd=2",
+					"https://smotret-anime.com/translations/embed/3153687"
+				]
+			},
+			{
+				"title": "Эпизод 6",
+				"links": [
+					"https://video.sibnet.ru/shell.php?videoid=3859404",
+					"https://my.mail.ru/video/embed/2813423111838368308",
+					"https://vk.com/video_ext.php?oid=-130051580&id=456240060&hd=2",
+					"https://smotret-anime.com/translations/embed/3159855"
+				]
+			},
+			{
+				"title": "Эпизод 7",
+				"links": [
+					"https://video.sibnet.ru/shell.php?videoid=3865142",
+					"https://my.mail.ru/video/embed/2813423111838368310",
+					"https://vk.com/video_ext.php?oid=-130051580&id=456240066&hd=2",
+					"https://smotret-anime.com/translations/embed/3164474"
+				]
+			},
+			{
+				"title": "Эпизод 8",
+				"links": [
+					"https://video.sibnet.ru/shell.php?videoid=3871311",
+					"https://my.mail.ru/video/embed/2813423111838368313",
+					"https://vk.com/video_ext.php?oid=-130051580&id=456240076&hd=2",
+					"https://smotret-anime.com/translations/embed/3170792"
+				]
+			},
+			{
+				"title": "Эпизод 9",
+				"links": [
+					"https://video.sibnet.ru/shell.php?videoid=3873530",
+					"https://my.mail.ru/video/embed/2813423111838368315",
+					"https://vk.com/video_ext.php?oid=-130051580&id=456240082&hd=2",
+					"https://smotret-anime.com/translations/embed/3173817"
+				]
+			},
+			{
+				"title": "Эпизод 10",
+				"links": [
+					"https://video.sibnet.ru/shell.php?videoid=3877177",
+					"https://my.mail.ru/video/embed/2813423111838368318",
+					"https://vk.com/video_ext.php?oid=-130051580&id=456240088&hd=2",
+					"https://smotret-anime.com/translations/embed/3179813"
+				]
+			},
+			{
+				"title": "Эпизод 11",
+				"links": [
+					"https://video.sibnet.ru/shell.php?videoid=3879542",
+					"https://my.mail.ru/video/embed/2813423111838368319",
+					"https://vk.com/video_ext.php?oid=-130051580&id=456240091&hd=2",
+					"https://smotret-anime.com/translations/embed/3182710"
+				]
+			},
+			{
+				"title": "Эпизод 12",
+				"links": [
+					"https://video.sibnet.ru/shell.php?videoid=3886306",
+					"https://my.mail.ru/video/embed/2813423111838368321",
+					"https://vk.com/video_ext.php?oid=-130051580&id=456240098&hd=2",
+					"https://smotret-anime.com/translations/embed/3187954"
+				]
+			}
+		]
+	},
+	{
+		"title": "Спецвыпуски",
+		"folder": [{
+			"title": "Ma no Omake OVA 4",
+			"links": [
+				"https://video.sibnet.ru/shell.php?videoid=3932302",
+				"https://my.mail.ru/video/embed/2813423111838368339",
+				"https://ok.ru/videoembed/1563820427945",
+				"https://vk.com/video_ext.php?oid=-130051580&id=456240153&hd=2",
+                                "https://smotret-anime.com/translations/embed/3217637"
+        ]
+      },
+      {
+       "title":"Ma no Omake OVA FULL",
+       "links":[
+         "https://video.sibnet.ru/shell.php?videoid=3991919",
+         "https://my.mail.ru/video/embed/2813423111838368347",
+         "https://vk.com/video_ext.php?oid=-130051580&id=456240156&hd=2",
+         "https://smotret-anime.com/translations/embed/4844107"
+            ]
+         }
+      ]
+   },
+{
+		"title": "Каверы",
+		"folder": [{
+			"title": "Opening 1",
+			"links": [
+				"https://www.youtube.com/embed/-rBIPJYapu0?si=8E6cuRF3GWKdh56b",
+				"https://vk.com/video_ext.php?oid=-130051580&id=456240057&hd=2",
+				"https://ok.ru/videoembed/1481040399017",
+				"https://my.mail.ru/video/embed/2813423111838368307"
+            ]
+         }
+      ]
+   }
+]

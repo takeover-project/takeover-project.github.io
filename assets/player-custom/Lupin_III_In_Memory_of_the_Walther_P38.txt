@@ -1,0 +1,19 @@
+[
+   {
+      "title":"Люпен III",
+      "folder":[
+         {
+            "title":"Cпецвыпуск 9",
+            "links":[
+               "https://vk.com/video_ext.php?oid=-130051580&id=456240159&hash=6f3f1803dfbcf327&hd=2",
+               "https://ok.ru/videoembed/1645799738025",
+			   "https://anivod.com/uv/230616/989a1317518680b4730a/720p",
+               "https://video.sibnet.ru/shell.php?videoid=3992529",
+               "https://www.myvi.top/embed/uwm9x9iro1mw9chre6a4yjuuur",
+			   "https://smotret-anime.online/translations/embed/3254599",
+               "https://my.mail.ru/video/embed/2813423111838368348"
+            ]
+         }
+      ]
+   }
+]

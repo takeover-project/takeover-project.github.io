@@ -1,0 +1,67 @@
+[
+   {
+      "title":"3 сезон",
+      "folder":[
+         {
+            "title":"Марафон",
+            "links":[
+               "https://mega.nz/embed/M04C3RLa#8BOgTZdTNrOXDxIaqZZQbInyxj3rn2LX5THLs8S3q7Q"
+            ]
+         },
+         {
+            "title":"Эпизод 1",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798932"
+            ]
+         },
+         {
+            "title":"Эпизод 2",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798936"
+            ]
+         },
+         {
+            "title":"Эпизод 3",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798940"
+            ]
+         },
+         {
+            "title":"Эпизод 4",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798943"
+            ]
+         },
+         {
+            "title":"Эпизод 5",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798947"
+            ]
+         },
+         {
+            "title":"Эпизод 6",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798952"
+            ]
+         },
+         {
+            "title":"Эпизод 7",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798957"
+            ]
+         },
+         {
+            "title":"Эпизод 8",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4798960"
+            ]
+         },
+         {
+            "title":"Эпизод 9",
+            "links":[
+               "https://video.sibnet.ru/shell.php?videoid=4799043"
+            ]
+         }
+      ]
+   }
+]

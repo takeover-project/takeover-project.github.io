@@ -1,0 +1,17 @@
+[
+   {
+      "title":"Касанэ",
+      "folder":[
+         {
+            "title":"Фильм",
+            "links":[
+               "https://vk.com/video_ext.php?oid=-130051580&id=456239811&hash=f22d643a4f1d5274&hd=2",             
+               "https://video.sibnet.ru/shell.php?videoid=3657124",
+               "https://my.mail.ru/video/embed/2813423111838368239",
+               "https://ok.ru/videoembed/1238669462185",
+               "https://www.mp4upload.com/embed-pi9wjx14wqg7.html"
+            ]
+         }
+      ]
+   }
+]
